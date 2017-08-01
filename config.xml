@@ -6,7 +6,7 @@
         id        = "ch.danielengler.logfile"
         version   = "0.8.0">
 
-    <name>en_cube</name>
+    <name>filelog</name>
 
     <description>
        Logfile
